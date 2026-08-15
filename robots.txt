@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-vb2cvz.tiendasalitremagico.shop/sitemap.xml
